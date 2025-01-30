@@ -1,5 +1,5 @@
 ### Summary
-Learn to build a bookstore application using the MERN stack, covering setup, database integration, routing, and front-end development.
+Built a bookstore application using  MERN stack, database integration, routing, and front-end development.
 
 ### Highlights
 - 📁 Create a new project folder and initialize with npm.
@@ -11,8 +11,8 @@ Learn to build a bookstore application using the MERN stack, covering setup, dat
 - 🔄 Handle CORS policy for seamless cross-origin requests.
 
 ### Key Insights
-- 🛠️ **Project Setup**: Starting with folder structure and npm initialization lays a solid foundation for project organization, crucial for scaling applications. 
-- 🔄 **Express.js & Nodemon**: Utilizing Nodemon enhances development efficiency by automatically restarting the server during code changes, streamlining the workflow.
+- 🛠️ **Project Setup**: Starting with folder structure and npm initialization.
+- 🔄 **Express.js**: Utilizing Nodemon enhances development efficiency by automatically restarting the server during code changes, streamlining the workflow.
 - 🗃️ **MongoDB Integration**: Mongoose simplifies database interactions, ensuring data consistency and schema validation, which is essential for robust applications.
 - 🔗 **HTTP Routing**: Implementing RESTful routes promotes clear API structure, making the application easier to maintain and extend in the future.
 - 🎨 **React Front-end**: Combining Vite and Tailwind CSS allows for fast development and a responsive design, enhancing user experience and engagement.

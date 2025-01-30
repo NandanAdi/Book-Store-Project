@@ -1,4 +1,4 @@
-### Summary
+### Summary ( A Express.js and React.js Project)
 Built a bookstore application using  MERN stack, database integration, routing, and front-end development.
 
 ### Highlights
